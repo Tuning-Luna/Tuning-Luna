@@ -1,6 +1,6 @@
 # Hi,my friend!
 ## Self-introduction：
-Currently studying at Hefei University of Technology(XC).
+Currently studying at **Hefei University of Technology(XC).**
 
 - 🔭 I’m currently working on Computer
 - 🌱 I’m currently learning C++
