@@ -3,9 +3,9 @@
 Currently studying at **Hefei University of Technology(XC).**
 
 - 🔭 I’m currently working on Computer
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++,Java
 - 👯 I’m looking to collaborate on Programing
-- 🤔 I’m looking for help with Qt，Linux
+- 🤔 I’m looking for help with RoboCup-2D,Linux
 # Visitor Count：
 ![Visitor Count](https://profile-counter.glitch.me/Tuning-Wjx/count.svg)
 # The language I use：
