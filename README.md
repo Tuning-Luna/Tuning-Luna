@@ -7,8 +7,8 @@ Currently studying at **Hefei University of Technology(XC).**
 - 👯 I’m looking to collaborate on Programing
 - 🤔 I’m looking for help with RoboCup-2D,Linux
 # Visitor Count：
-![Visitor Count](https://profile-counter.glitch.me/Tuning-Wjx/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Tuning-Luna/count.svg)
 # The language I use：
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuning-Wjx)](https://github.com/Tuning-Wjx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuning-Wjx)](https://github.com/Tuning-Luna/github-readme-stats)
 # My GitHub stats:
-![Tuning-Wjx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuning-Wjx&show_icons=true&theme=tokyonight)
+![Tuning-Wjx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuning-Luna&show_icons=true&theme=tokyonight)
