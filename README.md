@@ -1,18 +1,18 @@
-<h2 align="center">个人简介</h2>
+<h2 align="center">About Me</h2>
 
 Studying at **Hefei University of Technology(XC).**
 My major is Computer Science and Technology.
 
-<h2 align="center">联系方式</h2>
+<h2 align="center">Contact Information</h2>
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-@TuningLunaPMBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/TuningLunaPMBot)
-[![QQ邮箱](https://img.shields.io/badge/QQ邮箱-2081672492@qq.com-666666?style=for-the-badge&logo=tencentqq&logoColor=white&labelColor=000000)](mailto:2081672492@qq.com)
+[![QMail](https://img.shields.io/badge/QQ邮箱-2081672492@qq.com-666666?style=for-the-badge&logo=tencentqq&logoColor=white&labelColor=000000)](mailto:2081672492@qq.com)
 
-<h2 align="center">访客数</h2>
+<h2 align="center">Page Views</h2>
 
 ![:Tuning-Luna](https://count.getloli.com/get/@Tuning-Luna?theme=nekopara)
 
-<h2 align="center">语言和工具</h2>
+<h2 align="center">What I Code With</h2>
 <p style="position: relative; padding: 20px; font-size: 16px; line-height: 1.6;">
   <span style="
             position: absolute;
