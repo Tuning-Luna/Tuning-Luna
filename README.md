@@ -27,15 +27,12 @@ My major is Computer Science and Technology.
         ">
   </span>
 
-  <!-- 前端核心 -->
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"
       height="40" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"
       height="40" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"
       height="40" /></a>
-
-  <!-- 前端框架和库 -->
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40"
       height="40" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40"
@@ -44,41 +41,26 @@ My major is Computer Science and Technology.
       height="40" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"
       height="40" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40"
-      height="40" title="Uniapp (无官方icon，先用 Vue 图标代替)" /></a>
-
-  <!-- 后端语言 -->
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"
       height="40" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"
       height="40" /></a>
-
-  <!-- 数据库 -->
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"
       height="40" /></a>
-
-  <!-- 包管理与工具 -->
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40"
       height="40" /></a>
-
-  <!-- IDE -->
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40"
       height="40" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40"
       height="40" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"
       height="40" /></a>
-
-  <!-- 版本控制 -->
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"
       height="40" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"
       height="40" /></a>
-
-  <!-- 其他工具 -->
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="40"
       height="40" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"
       height="40" /></a>
-
 </p>
