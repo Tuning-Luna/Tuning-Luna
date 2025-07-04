@@ -10,4 +10,4 @@ My major is Computer Science and Technology.
 
 <h2 align="center">访客数</h2>
 
-![:Tuning-Luna](https://count.getloli.com/get/@Tuning-Luna?theme=moebooru)
+![:Tuning-Luna](https://count.getloli.com/get/@Tuning-Luna?theme=nekopara)
