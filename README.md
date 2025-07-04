@@ -41,8 +41,6 @@ My major is Computer Science and Technology.
       height="60" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="60"
-      height="60" title="Uniapp (使用 Vue 图标代替)" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60"
       height="60" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60"
