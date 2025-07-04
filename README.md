@@ -76,6 +76,16 @@ My major is Computer Science and Technology.
 <h2 align="center">GitHub Contributions & Languages</h2>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuning-Luna&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&layout=compact&bg_color=50,650abf,6a13f8,fc35d0,fe696f,ff9a8b&locale=cn&hide_border=0)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Tuning-Luna&title_color=ffffff&text_color=ffffff&layout=compact&width=100%&bg_color=30,650abf,6a13f8,fc35d0,fe696f,ff9a8b&locale=cn&hide_border=0)
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuning-Luna&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&layout=compact&bg_color=0d1117&locale=cn&hide_border=0"
+  width="350"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Tuning-Luna&title_color=ffffff&text_color=ffffff&layout=compact&width=350&bg_color=0d1117&locale=cn&hide_border=0"
+/>
+
+</div>
 
