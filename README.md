@@ -13,7 +13,19 @@ My major is Computer Science and Technology.
 ![:Tuning-Luna](https://count.getloli.com/get/@Tuning-Luna?theme=nekopara)
 
 <h2 align="center">语言和工具</h2>
-
+<p style="position: relative; padding: 20px; font-size: 16px; line-height: 1.6;">
+  <span style="
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.2); 
+            z-index: -1;
+            border-radius: 10px; 
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        ">
+  </span>
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40"
       height="40" /></a>
