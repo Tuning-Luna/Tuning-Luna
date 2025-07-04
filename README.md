@@ -79,8 +79,8 @@ My major is Computer Science and Technology.
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuning-Luna&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&layout=compact&bg_color=0d1117&locale=cn&hide_border=0"
-  width="350"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuning-Luna&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&layout=compact&bg_color=0d1117&locale=en&hide_border=0"
+  width="400"
 />
 
 <img
