@@ -7,6 +7,8 @@ My major is Computer Science and Technology.
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-@TuningLunaPMBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/TuningLunaPMBot)
 [![QMail](https://img.shields.io/badge/QMail-2081672492@qq.com-666666?style=for-the-badge&logo=tencentqq&logoColor=white&labelColor=000000)](mailto:2081672492@qq.com)
+[![Discord](https://img.shields.io/badge/Discord-TuningLuna%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/1220524033955729428)
+
 
 <h2 align="center">Page Views</h2>
 
