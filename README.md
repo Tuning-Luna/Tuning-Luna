@@ -73,7 +73,7 @@ My major is Computer Science and Technology.
 </p>
 
 
-<h2 align="center">GitHub Contributions & Languages/h2>
+<h2 align="center">GitHub Contributions & Languages</h2>
 
 ![profile-3d-contrib](https://Tuning-Luna.pages.dev/profile-3d-contrib/profile-night-rainbow.svg)
 
