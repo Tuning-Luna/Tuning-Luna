@@ -49,6 +49,10 @@ My major is Computer Science and Technology.
       height="60" /></a>
         <a><img src="https://www.imqd.cn/wp-content/uploads/2023/12/uniapp.jpg" width="60"
       height="60" /></a>
+      <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="60" height="60" />
+</a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="60" height="60" />
+</a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60"
       height="60" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60"
