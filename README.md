@@ -71,7 +71,7 @@ My major is Computer Science and Technology.
       height="60" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60"
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="60"
       height="60" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60"
       height="60" /></a>
