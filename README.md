@@ -15,19 +15,6 @@ My major is Computer Science and Technology.
 ![:Tuning-Luna](https://count.getloli.com/get/@Tuning-Luna?theme=nekopara)
 
 <h2 align="center">What I Code With</h2>
-<p style="position: relative; padding: 20px; font-size: 16px; line-height: 1.6;">
-  <!-- <span style="
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(255, 255, 255, 0.2); 
-            z-index: -1;
-            border-radius: 10px; 
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-        ">
-  </span> -->
 
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60"
       height="60" /></a>
@@ -83,7 +70,7 @@ My major is Computer Science and Technology.
 </p>
 
 
-<h2 align="center">GitHub Contributions & Languages</h2>
+<h2 align="center">Languages</h2>
 
 <div align="center">
 <img
@@ -91,7 +78,11 @@ My major is Computer Science and Technology.
   width="450"
   style="margin-bottom:30px;"
 />
-  
+</div>
+
+<h2 align="center">Contributions</h2>
+
+<div align="center">
 <img
   src="https://github-readme-stats.vercel.app/api?username=Tuning-Luna&title_color=ffffff&text_color=ffffff&layout=compact&width=350&bg_color=0d1117&locale=en&hide_border=0"
 />
@@ -102,4 +93,3 @@ My major is Computer Science and Technology.
   </tr>
 </table>
 </div>
-
