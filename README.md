@@ -16,7 +16,7 @@ My major is Computer Science and Technology.
 
 <h2 align="center">What I Code With</h2>
 <p style="position: relative; padding: 20px; font-size: 16px; line-height: 1.6;">
-  <span style="
+  <!-- <span style="
             position: absolute;
             top: 0;
             left: 0;
@@ -27,7 +27,7 @@ My major is Computer Science and Technology.
             border-radius: 10px; 
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
         ">
-  </span>
+  </span> -->
 
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60"
       height="60" /></a>
@@ -95,5 +95,11 @@ My major is Computer Science and Technology.
 <img
   src="https://github-readme-stats.vercel.app/api?username=Tuning-Luna&title_color=ffffff&text_color=ffffff&layout=compact&width=350&bg_color=0d1117&locale=en&hide_border=0"
 />
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuning-Luna&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
 </div>
 
