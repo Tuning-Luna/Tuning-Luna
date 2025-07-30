@@ -4,7 +4,7 @@ Studying at **Hefei University of Technology(XC).**
 My major is Computer Science and Technology. -->
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&separator=%3C&lines=Studying+at+HFUT%3CMajor+is+CS%3Cworld.execute(me);" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&separator=%3C&lines=Studying+at+HFUT%3CMajor+is+CS" alt="Typing SVG" /></a>
 </div>
 
 <h2 align="center">Contact Information</h2>
