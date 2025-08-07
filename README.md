@@ -100,7 +100,7 @@ My major is Computer Science and Technology. -->
 
 <div align="center">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Tuning-Luna&title_color=ffffff&text_color=ffffff&layout=compact&width=350&bg_color=0d1117&locale=en&hide_border=0"
+  src="https://github-readme-stats.vercel.app/api?username=Tuning-Luna&title_color=ffffff&text_color=ffffff&layout=compact&width=350&bg_color=0d1117&locale=en&hide_border=0&count_private=true&show_icons=true&theme=transparent"
 />
 
 <table align="center">
