@@ -3,7 +3,7 @@
 Studying at **Hefei University of Technology(XC).**
 My major is Computer Science and Technology. -->
 
-<h1>Hi,I am TuningLuna</h1>
+<h1>Hi👋,I am TuningLuna</h1>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Studying+at+Hefei+University+of+Technology;My+major+is+Computer+Science.;Always+Learning%2C+Always+Building.;May+nothing+stand+before+you." alt="Typing SVG" /></a>
