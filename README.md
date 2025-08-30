@@ -66,6 +66,10 @@ My major is Computer Science and Technology. -->
       height="60" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60"
       height="60" /></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60"
+      height="60" /></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="60"
+      height="60" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="60"
       height="60" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60"
