@@ -28,24 +28,17 @@ My major is Computer Science and Technology. -->
 
 ![:Tuning-Luna](https://count.getloli.com/get/@Tuning-Luna?theme=nekopara)
 
-<h2 align="center">Spotify Recently Played</h2>
+<h2 align="center">Spotify</h2>
 
 <div align="center">
 
 [![Spotify](https://img.shields.io/badge/Spotify-TuningLuna-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/314a24hp4ccelg66lfu7y22gx3si)
 
- [![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=314a24hp4ccelg66lfu7y22gx3si&count=10&width=300&unique=true)](https://spotify-recently-played-readme.vercel.app/api?user=314a24hp4ccelg66lfu7y22gx3si&count=10&width=1000&unique=true)
-
-
-<h2 align="center">Recommended on Spotify</h2>
-
-<a href="https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz?si=dacaf834440540bd" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42" width="200" />
-</a>
-
-
-
 </div>
+
+| Spotify Recently Played                                                                                                                                                                                                                                                              | Recommended on Spotify                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=314a24hp4ccelg66lfu7y22gx3si&count=10&width=300&unique=true)](https://spotify-recently-played-readme.vercel.app/api?user=314a24hp4ccelg66lfu7y22gx3si&count=10&width=1000&unique=true) | <a href="https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz?si=dacaf834440540bd" target="_blank"><br/>  <img src="https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42" width="200" /><br/></a> |
 
 
 <h2 align="center">What I Code With</h2>
