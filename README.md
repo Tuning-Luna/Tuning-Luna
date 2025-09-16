@@ -28,6 +28,14 @@ My major is Computer Science and Technology. -->
 
 ![:Tuning-Luna](https://count.getloli.com/get/@Tuning-Luna?theme=nekopara)
 
+<h2 align="center">Spotify Now Playing</h2>
+
+[![Spotify](https://img.shields.io/badge/Spotify-TuningLuna-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/314a24hp4ccelg66lfu7y22gx3si)
+
+
+
+ [![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=314a24hp4ccelg66lfu7y22gx3si&count=10&width=300&unique=true)](https://spotify-recently-played-readme.vercel.app/api?user=314a24hp4ccelg66lfu7y22gx3si&count=10&width=1000&unique=true)
+
 <h2 align="center">What I Code With</h2>
 
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60"
