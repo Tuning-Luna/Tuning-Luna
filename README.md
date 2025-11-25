@@ -9,7 +9,7 @@ My major is Computer Science and Technology. -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Studying+at+Hefei+University+of+Technology;My+major+is+Computer+Science.;Always+Learning%2C+Always+Building.;May+nothing+stand+before+you." alt="Typing SVG" /></a>
 </div>
 
-
+<!--
 
 <h2 align="center">Contact Information</h2>
 
@@ -21,7 +21,9 @@ My major is Computer Science and Technology. -->
 
 [![Discord](https://img.shields.io/badge/Discord-TuningLuna-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/1220524033955729428)
 
-</div>
+</div>    -->
+
+
 
 
 <h2 align="center">Page Views</h2>
