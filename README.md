@@ -4,20 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Studying+at+Hefei+University+of+Technology;My+major+is+Computer+Science.;Always+Learning%2C+Always+Building.;May+nothing+stand+before+you." alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tuning-Luna&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="Tuning-Luna" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/Tuning-Luna?style=for-the-badge&logo=github&labelColor=0d1117&color=00d9ff" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Tuning-Luna?style=for-the-badge&logo=github&labelColor=0d1117&color=ffd700" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=Tuning-Luna&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Tuning-Luna&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
 <!--
 
 <h2 align="center">Contact Information</h2>
@@ -32,18 +18,10 @@
 
 </div>    -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=TuningLuna&fontSize=42&fontAlignY=30&animation=twinkling" />
-</div>
-
 <h2 align="center">📊 Page Views</h2>
 
 <div align="center">
   <img src="https://count.getloli.com/get/@Tuning-Luna?theme=nekopara" alt="Page Views" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
 </div>
 
 <h2 align="center">🎵 Spotify</h2>
@@ -56,10 +34,6 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=31d6ybszeq4mxs3khxyautsuexty&count=10&width=300&unique=true)](https://spotify-recently-played-readme.vercel.app/api?user=31d6ybszeq4mxs3khxyautsuexty&count=10&width=1000&unique=true) | <a href="https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz?si=dacaf834440540bd" target="_blank"><br/> <img src="https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42" width="200" /><br/></a> |
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
 </div>
 
 <h2 align="center">💻 What I Code With</h2>
@@ -127,10 +101,6 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60"
       height="60" /></a>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
-</div>
-
 <h2 align="center">📈 Languages</h2>
 
 <div align="center">
@@ -139,10 +109,6 @@
   width="450"
   style="margin-bottom:30px;"
 />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
 </div>
 
 <h2 align="center">🔥 Contributions</h2>
@@ -154,29 +120,9 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuning-Luna&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuning-Luna&theme=github-compact&hide_border=true&area=true" alt="Fun Fact" /></td>
   </tr>
 </table>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
-</div>
-
-<h2 align="center">💡 Random Dev Quote</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
-</div>
-
-<h2 align="center">⚡ Fun Fact</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuning-Luna&theme=github-compact&hide_border=true&area=true" alt="Fun Fact" />
 </div>
 
 <div align="center">
