@@ -23,9 +23,6 @@ My major is Computer Science and Technology. -->
 
 </div>    -->
 
-
-
-
 <h2 align="center">Page Views</h2>
 
 ![:Tuning-Luna](https://count.getloli.com/get/@Tuning-Luna?theme=nekopara)
@@ -36,76 +33,74 @@ My major is Computer Science and Technology. -->
 
 [![Spotify](https://img.shields.io/badge/Spotify-TuningLuna-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31d6ybszeq4mxs3khxyautsuexty)
 
-
-| Recently Played                                                                                                                                                                                                                                                                      | Recommended                                                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=31d6ybszeq4mxs3khxyautsuexty&count=10&width=300&unique=true)](https://spotify-recently-played-readme.vercel.app/api?user=31d6ybszeq4mxs3khxyautsuexty&count=10&width=1000&unique=true) | <a href="https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz?si=dacaf834440540bd" target="_blank"><br/>  <img src="https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42" width="200" /><br/></a> |
-
+| Recently Played                                                                                                                                                                                                                                                                      | Recommended                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=31d6ybszeq4mxs3khxyautsuexty&count=10&width=300&unique=true)](https://spotify-recently-played-readme.vercel.app/api?user=31d6ybszeq4mxs3khxyautsuexty&count=10&width=1000&unique=true) | <a href="https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz?si=dacaf834440540bd" target="_blank"><br/> <img src="https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42" width="200" /><br/></a> |
 
 </div>
 
-
 <h2 align="center">What I Code With</h2>
 
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60"
       height="60" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" />
 </a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60"
       height="60" /></a>
-        <a><img src="https://www.imqd.cn/wp-content/uploads/2023/12/uniapp.jpg" width="60"
+<a><img src="https://www.imqd.cn/wp-content/uploads/2023/12/uniapp.jpg" width="60"
       height="60" /></a>
-      <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="60" height="60" />
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="60" height="60" />
 </a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="60" height="60" />
 </a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60"
       height="60" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="60"
+      height="60" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="60"
+      height="60" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="60"
       height="60" /></a>
 
 </p>
-
-
-
 
 <h2 align="center">Languages</h2>
 
