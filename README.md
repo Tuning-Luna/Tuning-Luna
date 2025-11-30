@@ -1,12 +1,21 @@
-<!-- <h2 align="center">About Me</h2>
-
-Studying at **Hefei University of Technology(XC).**
-My major is Computer Science and Technology. -->
-
 <h1>Hi👋,I am TuningLuna</h1>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Studying+at+Hefei+University+of+Technology;My+major+is+Computer+Science.;Always+Learning%2C+Always+Building.;May+nothing+stand+before+you." alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tuning-Luna&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="Tuning-Luna" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/Tuning-Luna?style=for-the-badge&logo=github&labelColor=0d1117&color=00d9ff" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Tuning-Luna?style=for-the-badge&logo=github&labelColor=0d1117&color=ffd700" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Tuning-Luna&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Tuning-Luna&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <!--
@@ -23,11 +32,21 @@ My major is Computer Science and Technology. -->
 
 </div>    -->
 
-<h2 align="center">Page Views</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=TuningLuna&fontSize=42&fontAlignY=30&animation=twinkling" />
+</div>
 
-![:Tuning-Luna](https://count.getloli.com/get/@Tuning-Luna?theme=nekopara)
+<h2 align="center">📊 Page Views</h2>
 
-<h2 align="center">Spotify</h2>
+<div align="center">
+  <img src="https://count.getloli.com/get/@Tuning-Luna?theme=nekopara" alt="Page Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
+</div>
+
+<h2 align="center">🎵 Spotify</h2>
 
 <div align="center">
 
@@ -39,7 +58,11 @@ My major is Computer Science and Technology. -->
 
 </div>
 
-<h2 align="center">What I Code With</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
+</div>
+
+<h2 align="center">💻 What I Code With</h2>
 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60"
       height="60" /></a>
@@ -104,7 +127,11 @@ My major is Computer Science and Technology. -->
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60"
       height="60" /></a>
 
-<h2 align="center">Languages</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
+</div>
+
+<h2 align="center">📈 Languages</h2>
 
 <div align="center">
 <img
@@ -114,7 +141,11 @@ My major is Computer Science and Technology. -->
 />
 </div>
 
-<h2 align="center">Contributions</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
+</div>
+
+<h2 align="center">🔥 Contributions</h2>
 
 <div align="center">
 <img
@@ -126,4 +157,28 @@ My major is Computer Science and Technology. -->
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuning-Luna&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
+</div>
+
+<h2 align="center">💡 Random Dev Quote</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
+</div>
+
+<h2 align="center">⚡ Fun Fact</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuning-Luna&theme=github-compact&hide_border=true&area=true" alt="Fun Fact" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
