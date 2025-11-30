@@ -57,7 +57,21 @@ My major is Computer Science and Technology. -->
       height="60" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60"
       height="60" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" width="60"
+      height="60" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="60"
+      height="60" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60"
+      height="60" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"
+      height="60" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60"
+      height="60" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="60"
+      height="60" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60"
+      height="60" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60"
       height="60" /></a>
 <a><img src="https://www.imqd.cn/wp-content/uploads/2023/12/uniapp.jpg" width="60"
       height="60" /></a>
@@ -65,21 +79,17 @@ My major is Computer Science and Technology. -->
 </a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="60" height="60" />
 </a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="60"
       height="60" /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60"
-      height="60" /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="60"
       height="60" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60"
       height="60" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60"
       height="60" /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60"
-      height="60" /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60"
-      height="60" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="60"
+      height="60" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60"
       height="60" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="60"
       height="60" /></a>
@@ -87,20 +97,12 @@ My major is Computer Science and Technology. -->
       height="60" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60"
       height="60" /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="60"
-      height="60" /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60"
-      height="60" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60"
       height="60" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="60"
       height="60" /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="60"
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60"
       height="60" /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="60"
-      height="60" /></a>
-
-</p>
 
 <h2 align="center">Languages</h2>
 
