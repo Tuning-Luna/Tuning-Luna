@@ -105,7 +105,7 @@
 
 <div align="center">
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuning-Luna&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&layout=compact&bg_color=0d1117&locale=en&hide_border=0"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tuning-Luna&theme=github_dark"
   width="450"
   style="margin-bottom:30px;"
 />
@@ -115,7 +115,7 @@
 
 <div align="center">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Tuning-Luna&title_color=ffffff&text_color=ffffff&layout=compact&width=350&bg_color=0d1117&locale=en&hide_border=0&count_private=true&show_icons=true&theme=transparent"
+  src="https://gh-readme-profile.vercel.app/api?username=Tuning-Luna&theme=dark"
 />
 
 <table align="center">
