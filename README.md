@@ -1,24 +1,26 @@
 <h1>Hi👋,I am Tuning Luna</h1>
 
-![](./assets/JSA.png)
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Studying+at+Hefei+University+of+Technology;My+major+is+Computer+Science.;Always+Learning%2C+Always+Building.;May+nothing+stand+before+you." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Studying+at+Hefei+University+of+Technology;My+major+is+Computer+Science.;Always+Learning%2C+Always+Building.;Code+is+the+closest+thing+we+have+to+magic.;Tools+change%2C+but+thinking+remains.;Agents+plan%2C+tools+execute.;We+ship+features+faster+than+Apple+ships+calculator+updates.;May+nothing+stand+before+you." alt="Typing SVG" />
+</a>
 </div>
 
-<!--
+![](./assets/JSA.png)
 
 <h2 align="center">Contact Information</h2>
 
 <div align="center">
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram-@TuningLunaPMBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/TuningLunaPMBot)
+<!-- [![Telegram Bot](https://img.shields.io/badge/Telegram-@TuningLunaPMBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/TuningLunaPMBot) -->
 
-[![Email](https://img.shields.io/badge/EMail-2081672492@qq.com-666666?style=for-the-badge&logo=qq&logoColor=white&labelColor=000000)](mailto:2081672492@qq.com)
+<!-- [![Email](https://img.shields.io/badge/EMail-2081672492@qq.com-666666?style=for-the-badge&logo=qq&logoColor=white&labelColor=000000)](mailto:2081672492@qq.com) -->
+
+[![Email](https://img.shields.io/badge/EMail-tuningluna1206@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuningluna1206@gmail.com)
 
 [![Discord](https://img.shields.io/badge/Discord-TuningLuna-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/1220524033955729428)
 
-</div>    -->
+</div>
 
 <h2 align="center">📊 Page Views</h2>
 
