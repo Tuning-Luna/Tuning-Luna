@@ -42,9 +42,9 @@
   </a>
 </p>
 
-| Recently Played                                                                                                                                                                                                                                                                      | Recommended                                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=31d6ybszeq4mxs3khxyautsuexty&count=10&width=300&unique=true)](https://spotify-recently-played-readme.vercel.app/api?user=31d6ybszeq4mxs3khxyautsuexty&count=10&width=1000&unique=true) | <a href="https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz" target="_blank"><br/> <img src="https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42" width="200" /><br/></a> |
+| Recently Played                                                                                                                     | Recommended                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31d6ybszeq4mxs3khxyautsuexty&count=10&width=300&unique=true) | <a href="https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz" target="_blank"><br/> <img src="https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42" width="200" /><br/></a> |
 
 </div>
 
