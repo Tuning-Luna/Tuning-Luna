@@ -12,9 +12,8 @@
 
 <div align="center">
 
-<!-- [![Telegram Bot](https://img.shields.io/badge/Telegram-@TuningLunaPMBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/TuningLunaPMBot) -->
 
-<!-- [![Email](https://img.shields.io/badge/EMail-2081672492@qq.com-666666?style=for-the-badge&logo=qq&logoColor=white&labelColor=000000)](mailto:2081672492@qq.com) -->
+[![Email](https://img.shields.io/badge/EMail-1705409959@qq.com-666666?style=for-the-badge&logo=qq&logoColor=white&labelColor=000000)](mailto:1705409959@qq.com)
 
 [![Email](https://img.shields.io/badge/EMail-tuningluna1206@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuningluna1206@gmail.com)
 
@@ -64,19 +63,14 @@
 />
 </div>
 
-<h2 align="center">🔥 Contributions</h2>
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 <img
   src="https://gh-readme-profile.vercel.app/api?username=Tuning-Luna&theme=dark"
     style="margin-bottom:30px;"
 />
-
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuning-Luna&theme=github-compact&hide_border=true&area=true" alt="Fun Fact" /></td>
-  </tr>
-</table>
 </div>
 
 <div align="center">
