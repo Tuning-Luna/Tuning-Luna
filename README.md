@@ -52,7 +52,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,cmake,java,python,kotlin,js,ts,html,css,sass,less,jquery,bootstrap,tailwind,vue,react,nextjs,pinia,redux,vite,vuetify,nodejs,bun,express,nestjs,spring,mysql,sqlite,redis,linux,debian,kali,nginx,docker,git,github,visualstudio,vscode,idea,pycharm,neovim,npm,pnpm,maven,powershell,electron,tauri,md,discord,gmail" />
 </p>
 
-<h2 align="center">📈 Languages</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 <img
@@ -61,8 +61,6 @@
   style="margin-bottom:30px;"
 />
 </div>
-
-<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 <img
