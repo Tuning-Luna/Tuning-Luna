@@ -1,15 +1,8 @@
 <div align="center">
   <img 
     src="./assets/JSA.png" 
-    width="70%" 
-    style="
-      max-width: 900px;
-      height: auto;
-      border-radius: 16px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.35);
-      filter: brightness(1.05) contrast(1.05);
-    "
-    alt="Hero Banner"
+    width="80%" 
+    alt="Banner"
   />
 </div>
 
