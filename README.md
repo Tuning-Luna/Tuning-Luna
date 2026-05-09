@@ -22,24 +22,10 @@
 
 </div>
 
-<h2 align="center">📒 Contact Information</h2>
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/EMail-1705409959@qq.com-666666?style=for-the-badge&logo=qq&logoColor=white&labelColor=000000)](mailto:1705409959@qq.com)
-
-[![Email](https://img.shields.io/badge/EMail-tuningluna1206@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuningluna1206@gmail.com)
-
-[![Proton Mail](https://img.shields.io/badge/ProtonMail-tuningluna%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tuningluna@proton.me)
-
-[![Discord](https://img.shields.io/badge/Discord-TuningLuna-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/1220524033955729428)
-
-</div>
-
 <h2 align="center">📊 Page Views</h2>
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@Tuning-Luna?theme=nekopara" alt="Page Views" />
+  <img src="https://count.getloli.com/get/@Tuning-Luna?theme=rule34" alt="Page Views" />
 </div>
 
 <h2 align="center">🎵 Spotify</h2>
@@ -83,6 +69,20 @@
   src="https://gh-readme-profile.vercel.app/api?username=Tuning-Luna&theme=dark"
     style="margin-bottom:30px;"
 />
+</div>
+
+<h2 align="center">📒 Contact Information</h2>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/EMail-1705409959@qq.com-666666?style=for-the-badge&logo=qq&logoColor=white&labelColor=000000)](mailto:1705409959@qq.com)
+
+[![Email](https://img.shields.io/badge/EMail-tuningluna1206@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuningluna1206@gmail.com)
+
+[![Proton Mail](https://img.shields.io/badge/ProtonMail-tuningluna%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tuningluna@proton.me)
+
+[![Discord](https://img.shields.io/badge/Discord-TuningLuna-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/1220524033955729428)
+
 </div>
 
 <div align="center">
