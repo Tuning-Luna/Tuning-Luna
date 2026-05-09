@@ -1,17 +1,30 @@
-<h1>Hi👋,I am Tuning Luna</h1>
+<div align="center">
+  <img 
+    src="./assets/JSA.png" 
+    width="70%" 
+    style="
+      max-width: 900px;
+      height: auto;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+      filter: brightness(1.05) contrast(1.05);
+    "
+    alt="Hero Banner"
+  />
+</div>
+
+<h1 align="center">Hi👋,I am Tuning-Luna</h1>
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Studying+at+Hefei+University+of+Technology;My+major+is+Computer+Science.;Always+Learning%2C+Always+Building.;Code+is+the+closest+thing+we+have+to+magic.;Tools+change%2C+but+thinking+remains.;Agents+plan%2C+tools+execute.;We+ship+features+faster+than+Apple+ships+calculator+updates.;May+nothing+stand+before+you." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Studying+at+Hefei+University+of+Technology;Computer+Science+Student;Always+Learning+%2F+Always+Building;Code+is+the+closest+thing+to+magic;Agents+plan%2C+tools+execute;Ship+fast%2C+iterate+faster" />
 </a>
-</div>
 
-![](./assets/JSA.png)
+</div>
 
 <h2 align="center">📒 Contact Information</h2>
 
 <div align="center">
-
 
 [![Email](https://img.shields.io/badge/EMail-1705409959@qq.com-666666?style=for-the-badge&logo=qq&logoColor=white&labelColor=000000)](mailto:1705409959@qq.com)
 
@@ -50,7 +63,7 @@
 <h2 align="center">💻 What I Code With</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,kotlin,html,css,bootstrap,tailwind,less,jquery,vue,react,pinia,redux,vite,nodejs,express,nestjs,spring,bun,electron,tauri,mysql,sqlite,linux,debian,kali,nginx,git,github,powershell,vscode,idea,pycharm,neovim,npm,maven,discord,gmail,md" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cmake,java,python,kotlin,js,ts,html,css,sass,less,jquery,bootstrap,tailwind,vue,react,nextjs,pinia,redux,vite,vuetify,nodejs,bun,express,nestjs,spring,mysql,sqlite,redis,linux,debian,kali,nginx,docker,git,github,visualstudio,vscode,idea,pycharm,neovim,npm,pnpm,maven,powershell,electron,tauri,md,discord,gmail" />
 </p>
 
 <h2 align="center">📈 Languages</h2>
@@ -62,7 +75,6 @@
   style="margin-bottom:30px;"
 />
 </div>
-
 
 <h2 align="center">📊 GitHub Stats</h2>
 
