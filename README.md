@@ -37,8 +37,6 @@
   </a>
 </p>
 
----
-
 <div align="center">
 
 ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31d6ybszeq4mxs3khxyautsuexty&count=10&width=300&unique=true)
