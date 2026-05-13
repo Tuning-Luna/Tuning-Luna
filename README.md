@@ -31,13 +31,13 @@
 
 [![Spotify](https://img.shields.io/badge/Spotify-TuningLuna-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31d6ybszeq4mxs3khxyautsuexty)
 
----
-
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31d6ybszeq4mxs3khxyautsuexty&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d6ybszeq4mxs3khxyautsuexty&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
+
+---
 
 <div align="center">
 
