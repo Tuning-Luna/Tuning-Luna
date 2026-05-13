@@ -1,4 +1,8 @@
 <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=600&size=40&duration=10000&pause=1000&color=18F741&center=true&vCenter=true&repeat=false&width=500&lines=Welcome+to+my+profle." alt="Welcome" /></a>
+</div>
+
+<div align="center">
   <img 
     src="./assets/JSA.png" 
     width="80%" 
@@ -10,7 +14,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Studying+at+Hefei+University+of+Technology;Computer+Science+Student;Always+Learning+%2F+Always+Building;Code+is+the+closest+thing+to+magic;Agents+plan%2C+tools+execute;Ship+fast%2C+iterate+faster" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Studying+at+Hefei+University+of+Technology;Computer+Science+Student;Always+Learning+%2F+Always+Building;Code+is+the+closest+thing+to+magic;Agents+plan%2C+tools+execute;Ship+fast%2C+iterate+faster" alt="Typing SVG" />
 </a>
 
 </div>
@@ -29,13 +33,15 @@
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31d6ybszeq4mxs3khxyautsuexty&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d6ybszeq4mxs3khxyautsuexty&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d6ybszeq4mxs3khxyautsuexty&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
 
-| Recently Played                                                                                                                     | Recommended                                                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31d6ybszeq4mxs3khxyautsuexty&count=10&width=300&unique=true) | <a href="https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz" target="_blank"><br/> <img src="https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42" width="200" /><br/></a> |
+<div align="center">
+
+![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31d6ybszeq4mxs3khxyautsuexty&count=10&width=300&unique=true)
+
+</div>
 
 </div>
 
