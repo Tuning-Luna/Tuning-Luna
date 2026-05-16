@@ -1,7 +1,15 @@
-<div align="center">
+<!-- <div align="center">
   <svg width="500" height="60" xmlns="http://www.w3.org/2000/svg">
     <text x="250" y="45" font-family="serif" font-size="36" font-weight="600" fill="#18F741" text-anchor="middle">Welcome to my profile.</text>
   </svg>
+</div> -->
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=600&size=40&duration=1&pause=999999&color=18F741&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Welcome+to+my+profile."
+/>
+
 </div>
 
 <div align="center">
