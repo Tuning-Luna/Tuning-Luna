@@ -86,8 +86,38 @@
 
 <div align="center">
 <img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tuning-Luna&theme=github_dark&utcOffset=8"
+  width="450"
+  style="margin-bottom:30px;"
+/>
+</div>
+
+<div align="center">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tuning-Luna&theme=github_dark"
+  width="95%"
+/>
+</div>
+
+<div align="center">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Tuning-Luna&theme=github-compact&hide_border=true"
+  width="95%"
+  style="margin-bottom:30px;"
+/>
+</div>
+
+<div align="center">
+<img
   src="https://gh-readme-profile.vercel.app/api?username=Tuning-Luna&theme=dark"
-    style="margin-bottom:30px;"
+  style="margin-bottom:30px;"
+/>
+</div>
+
+<div align="center">
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Tuning-Luna&theme=darkhub&no-frame=true&margin-w=10&row=1"
+  width="95%"
 />
 </div>
 
