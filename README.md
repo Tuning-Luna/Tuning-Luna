@@ -65,7 +65,7 @@
 <h2 align="center">💻 What I Code With</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,tailwind,vue,react,nextjs,pinia,vite,vuetify,nodejs,bun,express,nestjs,mysql,sqlite,redis,linux,debian,nginx,docker,git,github,vscode,neovim,npm,pnpm,powershell,md" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,vue,react,nextjs,nodejs,bun,express,nestjs,mysql,sqlite,redis,linux,debian,nginx,docker,git,github,vscode,neovim,npm,powershell,md" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -125,6 +125,12 @@
 
 <h2 align="center">📒 Contact Information</h2>
 
+<details>
+
+<summary>
+  <b>Click to View</b>
+</summary>
+
 <div align="center">
 
 [![Email](https://img.shields.io/badge/EMail-tuningluna1206@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuningluna1206@gmail.com)
@@ -134,6 +140,8 @@
 [![Discord](https://img.shields.io/badge/Discord-TuningLuna-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/1220524033955729428)
 
 </div>
+
+</details>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
