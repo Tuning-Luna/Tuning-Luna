@@ -114,13 +114,6 @@
 />
 </div>
 
-<div align="center">
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Tuning-Luna&theme=darkhub&no-frame=true&margin-w=10&row=1"
-  width="95%"
-/>
-</div>
-
 </details>
 
 <h2 align="center">📒 Contact Information</h2>
