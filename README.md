@@ -114,6 +114,21 @@
 />
 </div>
 
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Tuning-Luna&theme=github-dark-orange"
+    style="margin-bottom:30px;"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://metrics.lecoq.io/Tuning-Luna?base=header%2C+activity%2C+community%2C+repositories-metadata&config.timezone=Asia%2FShanghai"
+    width="95%"
+    style="margin-bottom:30px;"
+  />
+</div>
+
 </details>
 
 <h2 align="center">📒 Contact Information</h2>
