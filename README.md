@@ -65,7 +65,7 @@
 <h2 align="center">💻 What I Code With</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,vue,react,nextjs,nodejs,bun,express,nestjs,mysql,sqlite,redis,linux,debian,nginx,docker,git,github,vscode,neovim,npm,powershell,md" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,vue,react,nextjs,nodejs,bun,express,nestjs,mysql,sqlite,redis,linux,debian,nginx,docker,electron,fastapi,git,github,vscode,neovim,npm,powershell,md&perline=10" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
