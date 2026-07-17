@@ -14,7 +14,7 @@
 
 <div align="center">
   <img 
-    src="./assets/JSA.png" 
+    src="./assets/JSA_tiny.jpg" 
     width="80%" 
     alt="Banner"
   />
