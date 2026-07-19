@@ -6,6 +6,10 @@
 
 </div>
 
+![](./assets/banner.svg)
+
+
+
 <div align="center">
   <img 
     src="./assets/JSA_tiny.jpg" 
@@ -18,7 +22,6 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=I'm+Tuning-Luna;Studying+at+Hefei+University+of+Technology;Computer+Science+Student;Always+Learning+%2F+Always+Building;Code+is+the+closest+thing+to+magic;Agents+plan%2C+tools+execute;Ship+fast%2C+iterate+faster" alt="Typing SVG" />
 </a>
-
 </div>
 
 <h2 align="center">📊 Page Views</h2>
