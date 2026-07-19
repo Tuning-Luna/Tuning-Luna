@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=600&size=40&duration=1&pause=999999&color=18F741&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Welcome+to+my+profile."
+  src="https://readme-typing-svg.demolab.com?font=Playpen+Sans+Deva&weight=600&size=40&duration=1&pause=999999&color=18F741&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Welcome+to+my+profile."
 />
 
 </div>
