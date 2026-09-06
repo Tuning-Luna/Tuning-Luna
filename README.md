@@ -142,6 +142,8 @@
 
 [![Discord](https://img.shields.io/badge/Discord-TuningLuna-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/1220524033955729428)
 
+[![Telegram](https://img.shields.io/badge/Telegram-Bannister4529__bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/Bannister4529_bot)
+
 </div>
 
 </details>
