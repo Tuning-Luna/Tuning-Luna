@@ -1,0 +1,100 @@
+<svg fill="none" viewBox="0 0 900 320" width="100%" height="320" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <!-- 圆角裁剪路径：确保背景图缩放时不超出圆角边界 -->
+    <clipPath id="bannerClip">
+      <rect width="900" height="320" rx="16" />
+    </clipPath>
+
+    <!-- 顶部半透明暗色渐变，增强文字可读性并融入深色主题 -->
+    <linearGradient id="overlayGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0.3" />
+      <stop offset="60%" stop-color="#0d1117" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0.85" />
+    </linearGradient>
+
+    <!-- 流光边框渐变 -->
+    <linearGradient id="borderGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6">
+        <animate attributeName="stop-color" values="#38bdf8;#818cf8;#c084fc;#38bdf8" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0.2">
+        <animate attributeName="stop-color" values="#818cf8;#c084fc;#38bdf8;#818cf8" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <style>
+    /* 风景背景图缓动呼吸缩放 (Ken Burns 效果) */
+    .scenery-img {
+      transform-origin: center center;
+      animation: panZoom 18s ease-in-out infinite alternate;
+    }
+
+    @keyframes panZoom {
+      0% {
+        transform: scale(1) translateY(0);
+      }
+      100% {
+        transform: scale(1.08) translateY(-6px);
+      }
+    }
+
+    /* 文字淡入与呼吸光效 */
+    .title-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-weight: 700;
+      letter-spacing: 2px;
+      fill: #f0f6fc;
+      filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.6));
+    }
+
+    .subtitle-text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 14px;
+      fill: #8b949e;
+      letter-spacing: 1.5px;
+      animation: textPulse 4s ease-in-out infinite alternate;
+    }
+
+    @keyframes textPulse {
+      0% { fill: #8b949e; }
+      100% { fill: #58a6ff; }
+    }
+  </style>
+
+  <!-- 内容包裹与裁剪 -->
+  <g clip-path="url(#bannerClip)">
+    <!-- 
+      ======================================================
+      在此处替换 Base64：
+      将下方 data:image/jpeg;base64, 后的占位字符替换为你的真实图片 Base64
+      ======================================================
+    -->
+    <image 
+      class="scenery-img"
+      x="0" 
+      y="0" 
+      width="900" 
+      height="320" 
+      preserveAspectRatio="xMidYMid slice" 
+      xlink:href="data:image/jpeg;base64,YOUR_IMAGE_BASE64_HERE"
+    />
+
+    <!-- 暗色渐变遮罩层（保证文字清晰度） -->
+    <rect width="900" height="320" fill="url(#overlayGrad)" />
+
+    <!-- 装饰性光斑微动 -->
+    <circle cx="820" cy="50" r="120" fill="#38bdf8" opacity="0.08">
+      <animate attributeName="r" values="100;130;100" dur="6s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- 文本内容 -->
+    <g transform="translate(48, 240)">
+      <text x="0" y="0" class="title-text" font-size="28">HELLO &amp; WELCOME</text>
+      <text x="2" y="32" class="subtitle-text">Keep exploring, building, and learning.</text>
+    </g>
+  </g>
+
+  <!-- 外层发光细边框 -->
+  <rect x="0.5" y="0.5" width="899" height="319" rx="16" fill="none" stroke="url(#borderGlow)" stroke-width="1.2" />
+</svg>

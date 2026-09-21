@@ -1,0 +1,383 @@
+<svg
+  width="100%"
+  height="320"
+  viewBox="0 0 900 320"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <!-- =========================================================
+         Banner 圆角裁剪
+         ========================================================= -->
+    <clipPath id="bannerClip">
+      <rect width="900" height="320" rx="18" />
+    </clipPath>
+
+    <!-- =========================================================
+         背景渐变
+         左侧稍暗，给文字留出稳定的视觉区域
+         ========================================================= -->
+    <linearGradient id="backgroundOverlay"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="#05070A" stop-opacity="0.78" />
+      <stop offset="42%" stop-color="#0B0F14" stop-opacity="0.52" />
+      <stop offset="72%" stop-color="#0B0F14" stop-opacity="0.32" />
+      <stop offset="100%" stop-color="#05070A" stop-opacity="0.62" />
+    </linearGradient>
+
+    <!-- 底部暗色渐变 -->
+    <linearGradient id="bottomFade"
+      x1="0"
+      y1="0"
+      x2="0"
+      y2="1"
+    >
+      <stop offset="0%" stop-color="#05070A" stop-opacity="0" />
+      <stop offset="100%" stop-color="#05070A" stop-opacity="0.58" />
+    </linearGradient>
+
+    <!-- =========================================================
+         微弱蓝紫色光晕
+         ========================================================= -->
+    <radialGradient id="ambientGlow"
+      cx="0"
+      cy="0"
+      r="1"
+      gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(760 72) rotate(120) scale(260 260)"
+    >
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.15" />
+      <stop offset="45%" stop-color="#818CF8" stop-opacity="0.07" />
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- =========================================================
+         顶部细微高光
+         ========================================================= -->
+    <linearGradient id="topHighlight"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- =========================================================
+         边框渐变
+         ========================================================= -->
+    <linearGradient id="borderGradient"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="1"
+    >
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.42" />
+      <stop offset="45%" stop-color="#818CF8" stop-opacity="0.20" />
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.34" />
+    </linearGradient>
+
+    <!-- =========================================================
+         背景图轻微模糊
+         不建议太强，否则 GitHub Banner 容易显得糊
+         ========================================================= -->
+    <filter id="backgroundBlur"
+      x="-10%"
+      y="-10%"
+      width="120%"
+      height="120%"
+    >
+      <feGaussianBlur stdDeviation="0.35" />
+    </filter>
+
+    <!-- =========================================================
+         文字阴影
+         ========================================================= -->
+    <filter id="textShadow"
+      x="-20%"
+      y="-30%"
+      width="140%"
+      height="160%"
+    >
+      <feDropShadow
+        dx="0"
+        dy="3"
+        stdDeviation="6"
+        flood-color="#000000"
+        flood-opacity="0.65"
+      />
+    </filter>
+  </defs>
+
+  <!-- =========================================================
+       SVG 内部样式
+       ========================================================= -->
+  <style>
+    .banner-bg {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: kenBurns 22s ease-in-out infinite alternate;
+    }
+
+    @keyframes kenBurns {
+      0% {
+        transform: scale(1.02) translate3d(0, 0, 0);
+      }
+
+      100% {
+        transform: scale(1.09) translate3d(-0.8%, -0.8%, 0);
+      }
+    }
+
+    .ambient-light {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: ambientPulse 8s ease-in-out infinite alternate;
+    }
+
+    @keyframes ambientPulse {
+      0% {
+        opacity: 0.65;
+        transform: scale(0.96);
+      }
+
+      100% {
+        opacity: 1;
+        transform: scale(1.04);
+      }
+    }
+
+    .title {
+      font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        "Helvetica Neue",
+        Arial,
+        sans-serif;
+
+      font-size: 29px;
+      font-weight: 700;
+      letter-spacing: 2.2px;
+      fill: #F5F7FA;
+    }
+
+    .subtitle {
+      font-family:
+        ui-monospace,
+        SFMono-Regular,
+        Menlo,
+        Monaco,
+        Consolas,
+        "Liberation Mono",
+        monospace;
+
+      font-size: 13px;
+      font-weight: 400;
+      letter-spacing: 1.3px;
+      fill: #A8B1BD;
+    }
+
+    .accent {
+      fill: #58A6FF;
+    }
+
+    /* GitHub README / profile 中用户可能关闭动画 */
+    @media (prefers-reduced-motion: reduce) {
+      .banner-bg,
+      .ambient-light {
+        animation: none;
+      }
+    }
+  </style>
+
+  <!-- =========================================================
+       内容区域
+       ========================================================= -->
+  <g clip-path="url(#bannerClip)">
+
+    <!-- =======================================================
+         Background
+         替换 YOUR_IMAGE_BASE64_HERE
+         ======================================================= -->
+    <image
+      class="banner-bg"
+      x="-40"
+      y="-20"
+      width="980"
+      height="360"
+      preserveAspectRatio="xMidYMid slice"
+      href="data:image/jpeg;base64,YOUR_IMAGE_BASE64_HERE"
+      filter="url(#backgroundBlur)"
+    />
+
+    <!-- =======================================================
+         整体暗色层
+         ======================================================= -->
+    <rect
+      width="900"
+      height="320"
+      fill="url(#backgroundOverlay)"
+    />
+
+    <!-- =======================================================
+         环境光
+         ======================================================= -->
+    <rect
+      class="ambient-light"
+      width="900"
+      height="320"
+      fill="url(#ambientGlow)"
+    />
+
+    <!-- =======================================================
+         底部渐变
+         ======================================================= -->
+    <rect
+      width="900"
+      height="320"
+      fill="url(#bottomFade)"
+    />
+
+    <!-- =======================================================
+         极细顶部高光
+         ======================================================= -->
+    <rect
+      x="24"
+      y="0"
+      width="852"
+      height="1"
+      fill="url(#topHighlight)"
+    />
+
+    <!-- =======================================================
+         左侧文字区域的轻微暗角
+         防止复杂背景影响文字
+         ======================================================= -->
+    <linearGradient
+      id="textAreaFade"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="#05070A" stop-opacity="0.38" />
+      <stop offset="70%" stop-color="#05070A" stop-opacity="0" />
+    </linearGradient>
+
+    <rect
+      x="0"
+      y="0"
+      width="560"
+      height="320"
+      fill="url(#textAreaFade)"
+    />
+
+    <!-- =======================================================
+         内容
+         ======================================================= -->
+    <g
+      transform="translate(48 226)"
+      filter="url(#textShadow)"
+    >
+
+      <!-- 小型状态标记 -->
+      <g transform="translate(0 -42)">
+        <circle
+          cx="5"
+          cy="5"
+          r="4"
+          fill="#58A6FF"
+        />
+
+        <text
+          x="17"
+          y="10"
+          class="subtitle"
+          font-size="11"
+          letter-spacing="2"
+        >
+          DEVELOPER · BUILDER · EXPLORER
+        </text>
+      </g>
+
+      <!-- 主标题 -->
+      <text
+        x="0"
+        y="0"
+        class="title"
+      >
+        HELLO &amp; WELCOME
+      </text>
+
+      <!-- 副标题 -->
+      <text
+        x="2"
+        y="31"
+        class="subtitle"
+      >
+        Keep exploring, building, and learning.
+      </text>
+
+    </g>
+
+    <!-- =======================================================
+         右上角非常轻微的装饰光
+         ======================================================= -->
+    <circle
+      cx="810"
+      cy="62"
+      r="150"
+      fill="none"
+      stroke="#58A6FF"
+      stroke-opacity="0.035"
+      stroke-width="1"
+    />
+
+    <circle
+      cx="810"
+      cy="62"
+      r="105"
+      fill="none"
+      stroke="#818CF8"
+      stroke-opacity="0.04"
+      stroke-width="1"
+    />
+
+  </g>
+
+  <!-- =========================================================
+       外边框
+       ========================================================= -->
+  <rect
+    x="0.75"
+    y="0.75"
+    width="898.5"
+    height="318.5"
+    rx="18"
+    fill="none"
+    stroke="url(#borderGradient)"
+    stroke-width="1.5"
+  />
+
+  <!-- 内侧极淡高光 -->
+  <rect
+    x="1.5"
+    y="1.5"
+    width="897"
+    height="317"
+    rx="17"
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-opacity="0.035"
+    stroke-width="1"
+  />
+
+</svg>

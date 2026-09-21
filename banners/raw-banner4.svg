@@ -1,0 +1,661 @@
+<svg
+  fill="none"
+  viewBox="0 0 900 570"
+  width="100%"
+  height="570"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+
+    <!-- =========================================================
+         圆角裁剪
+         ========================================================= -->
+    <clipPath id="bannerClip">
+      <rect width="900" height="570" rx="18" />
+    </clipPath>
+
+    <!-- =========================================================
+         整体暗色渐变
+         左侧稍暗，为文字留下稳定区域
+         ========================================================= -->
+    <linearGradient
+      id="backgroundOverlay"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="#05070A" stop-opacity="0.78" />
+      <stop offset="35%" stop-color="#080B10" stop-opacity="0.48" />
+      <stop offset="70%" stop-color="#080B10" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#05070A" stop-opacity="0.55" />
+    </linearGradient>
+
+    <!-- =========================================================
+         底部暗色
+         ========================================================= -->
+    <linearGradient
+      id="bottomFade"
+      x1="0"
+      y1="0"
+      x2="0"
+      y2="1"
+    >
+      <stop offset="0%" stop-color="#05070A" stop-opacity="0" />
+      <stop offset="72%" stop-color="#05070A" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#05070A" stop-opacity="0.58" />
+    </linearGradient>
+
+    <!-- =========================================================
+         左侧文字保护区域
+         ========================================================= -->
+    <linearGradient
+      id="textAreaFade"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="#05070A" stop-opacity="0.48" />
+      <stop offset="55%" stop-color="#05070A" stop-opacity="0.20" />
+      <stop offset="100%" stop-color="#05070A" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- =========================================================
+         蓝紫环境光
+         ========================================================= -->
+    <radialGradient
+      id="ambientGlow"
+      cx="0"
+      cy="0"
+      r="1"
+      gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(750 110) rotate(120) scale(330)"
+    >
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.14" />
+      <stop offset="45%" stop-color="#818CF8" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- =========================================================
+         边框
+         ========================================================= -->
+    <linearGradient
+      id="borderGradient"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="1"
+    >
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.45" />
+      <stop offset="45%" stop-color="#818CF8" stop-opacity="0.20" />
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.40" />
+    </linearGradient>
+
+    <!-- =========================================================
+         文字阴影
+         ========================================================= -->
+    <filter
+      id="textShadow"
+      x="-20%"
+      y="-30%"
+      width="140%"
+      height="160%"
+    >
+      <feDropShadow
+        dx="0"
+        dy="3"
+        stdDeviation="7"
+        flood-color="#000000"
+        flood-opacity="0.70"
+      />
+    </filter>
+
+    <!-- =========================================================
+         远景雨丝
+         ========================================================= -->
+    <g id="rainFar">
+      <line
+        x1="0"
+        y1="0"
+        x2="-3"
+        y2="22"
+        stroke="#D8ECFF"
+        stroke-width="0.7"
+        stroke-linecap="round"
+      />
+    </g>
+
+    <!-- =========================================================
+         中景雨丝
+         ========================================================= -->
+    <g id="rainMid">
+      <line
+        x1="0"
+        y1="0"
+        x2="-5"
+        y2="38"
+        stroke="#DCEEFF"
+        stroke-width="1"
+        stroke-linecap="round"
+      />
+    </g>
+
+    <!-- =========================================================
+         前景雨丝
+         ========================================================= -->
+    <g id="rainNear">
+      <line
+        x1="0"
+        y1="0"
+        x2="-7"
+        y2="55"
+        stroke="#E6F4FF"
+        stroke-width="1.35"
+        stroke-linecap="round"
+      />
+    </g>
+
+  </defs>
+
+
+  <!-- =========================================================
+       CSS / Animation
+       ========================================================= -->
+  <style>
+
+    /* ---------------------------------------------------------
+       背景 Ken Burns
+       --------------------------------------------------------- */
+    .scenery-img {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: kenBurns 24s ease-in-out infinite alternate;
+    }
+
+    @keyframes kenBurns {
+      0% {
+        transform: scale(1.01) translate(0, 0);
+      }
+
+      100% {
+        transform: scale(1.075) translate(-0.6%, -0.5%);
+      }
+    }
+
+
+    /* ---------------------------------------------------------
+       环境光呼吸
+       --------------------------------------------------------- */
+    .ambient-light {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: ambientPulse 9s ease-in-out infinite alternate;
+    }
+
+    @keyframes ambientPulse {
+      0% {
+        opacity: 0.65;
+        transform: scale(0.97);
+      }
+
+      100% {
+        opacity: 1;
+        transform: scale(1.04);
+      }
+    }
+
+
+    /* ---------------------------------------------------------
+       远景雨
+       --------------------------------------------------------- */
+    .rain-far {
+      animation: rainFarFall 2.8s linear infinite;
+    }
+
+    @keyframes rainFarFall {
+      0% {
+        transform: translate(0, -80px);
+        opacity: 0;
+      }
+
+      10% {
+        opacity: 0.20;
+      }
+
+      90% {
+        opacity: 0.20;
+      }
+
+      100% {
+        transform: translate(-25px, 650px);
+        opacity: 0;
+      }
+    }
+
+
+    /* ---------------------------------------------------------
+       中景雨
+       --------------------------------------------------------- */
+    .rain-mid {
+      animation: rainMidFall 1.7s linear infinite;
+    }
+
+    @keyframes rainMidFall {
+      0% {
+        transform: translate(0, -100px);
+        opacity: 0;
+      }
+
+      8% {
+        opacity: 0.38;
+      }
+
+      88% {
+        opacity: 0.38;
+      }
+
+      100% {
+        transform: translate(-32px, 700px);
+        opacity: 0;
+      }
+    }
+
+
+    /* ---------------------------------------------------------
+       前景雨
+       --------------------------------------------------------- */
+    .rain-near {
+      animation: rainNearFall 1.15s linear infinite;
+    }
+
+    @keyframes rainNearFall {
+      0% {
+        transform: translate(0, -100px);
+        opacity: 0;
+      }
+
+      10% {
+        opacity: 0.48;
+      }
+
+      85% {
+        opacity: 0.48;
+      }
+
+      100% {
+        transform: translate(-42px, 720px);
+        opacity: 0;
+      }
+    }
+
+
+    /* ---------------------------------------------------------
+       不同雨滴的错开时间
+       避免所有雨滴同步运动
+       --------------------------------------------------------- */
+
+    .delay-1 {
+      animation-delay: -0.4s;
+    }
+
+    .delay-2 {
+      animation-delay: -0.8s;
+    }
+
+    .delay-3 {
+      animation-delay: -1.2s;
+    }
+
+    .delay-4 {
+      animation-delay: -1.6s;
+    }
+
+    .delay-5 {
+      animation-delay: -2s;
+    }
+
+    .delay-6 {
+      animation-delay: -2.4s;
+    }
+
+
+    /* ---------------------------------------------------------
+       标题
+       --------------------------------------------------------- */
+    .title {
+      font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        "Helvetica Neue",
+        Arial,
+        sans-serif;
+
+      font-size: 30px;
+      font-weight: 700;
+      letter-spacing: 2.5px;
+      fill: #F5F7FA;
+    }
+
+
+    /* ---------------------------------------------------------
+       副标题
+       --------------------------------------------------------- */
+    .subtitle {
+      font-family:
+        ui-monospace,
+        SFMono-Regular,
+        Menlo,
+        Monaco,
+        Consolas,
+        "Liberation Mono",
+        monospace;
+
+      font-size: 14px;
+      font-weight: 400;
+      letter-spacing: 1.4px;
+      fill: #A8B1BD;
+    }
+
+
+    /* ---------------------------------------------------------
+       小型标签
+       --------------------------------------------------------- */
+    .eyebrow {
+      font-family:
+        ui-monospace,
+        SFMono-Regular,
+        Menlo,
+        Monaco,
+        Consolas,
+        "Liberation Mono",
+        monospace;
+
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 2px;
+      fill: #9FB5CE;
+    }
+
+
+    /* ---------------------------------------------------------
+       减少动画
+       --------------------------------------------------------- */
+    @media (prefers-reduced-motion: reduce) {
+      .scenery-img,
+      .ambient-light,
+      .rain-far,
+      .rain-mid,
+      .rain-near {
+        animation: none;
+      }
+    }
+
+  </style>
+
+
+  <!-- =========================================================
+       内容区域
+       ========================================================= -->
+  <g clip-path="url(#bannerClip)">
+
+    <!-- =======================================================
+         你的 2048 × 1297 Base64 图片
+
+         注意：
+         2048 / 1297 ≈ 1.579
+
+         当前 SVG：
+         900 / 570 ≈ 1.579
+
+         基本完全匹配。
+         ======================================================= -->
+    <image
+      class="scenery-img"
+      x="0"
+      y="0"
+      width="900"
+      height="570"
+      preserveAspectRatio="xMidYMid slice"
+      href="data:image/jpeg;base64,YOUR_IMAGE_BASE64_HERE"
+    />
+
+
+    <!-- =======================================================
+         整体暗色层
+         ======================================================= -->
+    <rect
+      width="900"
+      height="570"
+      fill="url(#backgroundOverlay)"
+    />
+
+
+    <!-- =======================================================
+         环境光
+         ======================================================= -->
+    <rect
+      class="ambient-light"
+      width="900"
+      height="570"
+      fill="url(#ambientGlow)"
+    />
+
+
+    <!-- =======================================================
+         左侧文字保护
+         ======================================================= -->
+    <rect
+      width="560"
+      height="570"
+      fill="url(#textAreaFade)"
+    />
+
+
+    <!-- =======================================================
+         底部暗色
+         ======================================================= -->
+    <rect
+      width="900"
+      height="570"
+      fill="url(#bottomFade)"
+    />
+
+
+    <!-- =======================================================
+         ========================================================
+         远景雨
+         ========================================================
+         ======================================================= -->
+
+    <g class="rain-far">
+
+      <use href="#rainFar" x="30"  y="30"  class="delay-1" />
+      <use href="#rainFar" x="70"  y="170" class="delay-4" />
+      <use href="#rainFar" x="110" y="80"  class="delay-2" />
+      <use href="#rainFar" x="150" y="250" class="delay-5" />
+      <use href="#rainFar" x="190" y="120" class="delay-3" />
+      <use href="#rainFar" x="230" y="20"  class="delay-6" />
+      <use href="#rainFar" x="270" y="310" class="delay-1" />
+      <use href="#rainFar" x="310" y="90"  class="delay-4" />
+      <use href="#rainFar" x="350" y="200" class="delay-2" />
+      <use href="#rainFar" x="390" y="40"  class="delay-5" />
+      <use href="#rainFar" x="430" y="280" class="delay-3" />
+      <use href="#rainFar" x="470" y="140" class="delay-6" />
+      <use href="#rainFar" x="510" y="30"  class="delay-1" />
+      <use href="#rainFar" x="550" y="230" class="delay-4" />
+      <use href="#rainFar" x="590" y="110" class="delay-2" />
+      <use href="#rainFar" x="630" y="330" class="delay-5" />
+      <use href="#rainFar" x="670" y="60"  class="delay-3" />
+      <use href="#rainFar" x="710" y="190" class="delay-6" />
+      <use href="#rainFar" x="750" y="20"  class="delay-1" />
+      <use href="#rainFar" x="790" y="290" class="delay-4" />
+      <use href="#rainFar" x="830" y="130" class="delay-2" />
+      <use href="#rainFar" x="870" y="350" class="delay-5" />
+
+    </g>
+
+
+    <!-- =======================================================
+         中景雨
+         ======================================================= -->
+
+    <g class="rain-mid">
+
+      <use href="#rainMid" x="20"  y="120" class="delay-2" />
+      <use href="#rainMid" x="60"  y="300" class="delay-5" />
+      <use href="#rainMid" x="100" y="40"  class="delay-1" />
+      <use href="#rainMid" x="140" y="220" class="delay-4" />
+      <use href="#rainMid" x="180" y="350" class="delay-6" />
+      <use href="#rainMid" x="220" y="100" class="delay-3" />
+      <use href="#rainMid" x="260" y="270" class="delay-1" />
+      <use href="#rainMid" x="300" y="10"  class="delay-5" />
+      <use href="#rainMid" x="340" y="180" class="delay-2" />
+      <use href="#rainMid" x="380" y="390" class="delay-4" />
+      <use href="#rainMid" x="420" y="70"  class="delay-6" />
+      <use href="#rainMid" x="460" y="250" class="delay-3" />
+      <use href="#rainMid" x="500" y="30"  class="delay-1" />
+      <use href="#rainMid" x="540" y="320" class="delay-5" />
+      <use href="#rainMid" x="580" y="130" class="delay-2" />
+      <use href="#rainMid" x="620" y="430" class="delay-4" />
+      <use href="#rainMid" x="660" y="80"  class="delay-6" />
+      <use href="#rainMid" x="700" y="290" class="delay-3" />
+      <use href="#rainMid" x="740" y="20"  class="delay-1" />
+      <use href="#rainMid" x="780" y="370" class="delay-5" />
+      <use href="#rainMid" x="820" y="160" class="delay-2" />
+      <use href="#rainMid" x="860" y="340" class="delay-4" />
+
+    </g>
+
+
+    <!-- =======================================================
+         前景雨
+         ======================================================= -->
+
+    <g class="rain-near">
+
+      <use href="#rainNear" x="45"  y="220" class="delay-3" />
+      <use href="#rainNear" x="125" y="40"  class="delay-6" />
+      <use href="#rainNear" x="205" y="310" class="delay-2" />
+      <use href="#rainNear" x="285" y="120" class="delay-5" />
+      <use href="#rainNear" x="365" y="390" class="delay-1" />
+      <use href="#rainNear" x="445" y="80"  class="delay-4" />
+      <use href="#rainNear" x="525" y="280" class="delay-6" />
+      <use href="#rainNear" x="605" y="20"  class="delay-2" />
+      <use href="#rainNear" x="685" y="350" class="delay-5" />
+      <use href="#rainNear" x="765" y="150" class="delay-1" />
+      <use href="#rainNear" x="845" y="420" class="delay-4" />
+
+    </g>
+
+
+    <!-- =======================================================
+         文字区域
+         ======================================================= -->
+
+    <g
+      transform="translate(48 390)"
+      filter="url(#textShadow)"
+    >
+
+      <!-- 小标签 -->
+      <g transform="translate(0 -50)">
+
+        <circle
+          cx="5"
+          cy="5"
+          r="4"
+          fill="#58A6FF"
+        />
+
+        <text
+          x="17"
+          y="10"
+          class="eyebrow"
+        >
+          DEVELOPER · BUILDER · EXPLORER
+        </text>
+
+      </g>
+
+
+      <!-- 主标题 -->
+      <text
+        x="0"
+        y="0"
+        class="title"
+      >
+        HELLO &amp; WELCOME
+      </text>
+
+
+      <!-- 副标题 -->
+      <text
+        x="2"
+        y="34"
+        class="subtitle"
+      >
+        Keep exploring, building, and learning.
+      </text>
+
+    </g>
+
+
+    <!-- =======================================================
+         右上角非常淡的装饰圆
+         ======================================================= -->
+
+    <circle
+      cx="790"
+      cy="95"
+      r="150"
+      fill="none"
+      stroke="#58A6FF"
+      stroke-opacity="0.035"
+      stroke-width="1"
+    />
+
+    <circle
+      cx="790"
+      cy="95"
+      r="105"
+      fill="none"
+      stroke="#818CF8"
+      stroke-opacity="0.04"
+      stroke-width="1"
+    />
+
+  </g>
+
+
+  <!-- =========================================================
+       外层边框
+       ========================================================= -->
+
+  <rect
+    x="0.75"
+    y="0.75"
+    width="898.5"
+    height="568.5"
+    rx="18"
+    fill="none"
+    stroke="url(#borderGradient)"
+    stroke-width="1.5"
+  />
+
+  <!-- 内侧高光 -->
+  <rect
+    x="1.5"
+    y="1.5"
+    width="897"
+    height="567"
+    rx="17"
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-opacity="0.035"
+    stroke-width="1"
+  />
+
+</svg>

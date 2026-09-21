@@ -1,0 +1,163 @@
+<svg fill="none" viewBox="0 0 900 320" width="100%" height="320" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <!-- 圆角裁剪容器 -->
+    <clipPath id="bannerClip">
+      <rect width="900" height="320" rx="16" />
+    </clipPath>
+
+    <!-- 文本底板毛玻璃渐变，确保字迹清晰且有高级通透感 -->
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0.88" />
+      <stop offset="100%" stop-color="#161b22" stop-opacity="0.65" />
+    </linearGradient>
+
+    <!-- 极客流光斜扫高光渐变 -->
+    <linearGradient id="shineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- 霓虹动态渐变边框 -->
+    <linearGradient id="neonBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#818cf8;#c084fc;#38bdf8" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#818cf8">
+        <animate attributeName="stop-color" values="#818cf8;#c084fc;#38bdf8;#818cf8" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#c084fc">
+        <animate attributeName="stop-color" values="#c084fc;#38bdf8;#818cf8;#c084fc" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- 微粒发光滤镜 -->
+    <filter id="glowFilter" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    /* 1. 风景微变焦与平移 */
+    .hero-img {
+      transform-origin: center center;
+      animation: zoomMove 12s ease-in-out infinite alternate;
+    }
+    @keyframes zoomMove {
+      0% { transform: scale(1.0) translateY(0); }
+      100% { transform: scale(1.12) translateY(-10px); }
+    }
+
+    /* 2. 划过整张 Banner 的斜向流光 */
+    .light-sweep {
+      transform: rotate(-25deg);
+      animation: sweepPass 4.5s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    }
+    @keyframes sweepPass {
+      0% { transform: translateX(-600px) rotate(-25deg); }
+      40%, 100% { transform: translateX(1200px) rotate(-25deg); }
+    }
+
+    /* 3. 悬浮星光/光尘浮动动效 */
+    .particle {
+      filter: url(#glowFilter);
+      animation: floatUp 5s ease-in-out infinite alternate;
+    }
+    .p1 { animation-duration: 4s; animation-delay: 0s; }
+    .p2 { animation-duration: 6s; animation-delay: -1.5s; }
+    .p3 { animation-duration: 5.2s; animation-delay: -3s; }
+    .p4 { animation-duration: 4.8s; animation-delay: -2s; }
+    
+    @keyframes floatUp {
+      0% { transform: translateY(0px) scale(0.8); opacity: 0.3; }
+      100% { transform: translateY(-24px) scale(1.4); opacity: 0.95; }
+    }
+
+    /* 4. 终端打字机与闪烁光标 */
+    .cursor {
+      animation: blink 0.9s infinite steps(2, start);
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+
+    .typewriter-text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 14px;
+      font-weight: 500;
+      fill: #58a6ff;
+    }
+    
+    .main-title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 32px;
+      letter-spacing: -0.5px;
+      fill: #ffffff;
+      filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.7));
+    }
+  </style>
+
+  <!-- 主体层：圆角包裹 -->
+  <g clip-path="url(#bannerClip)">
+    <!-- 
+      ======================================================
+      [填入 Base64]：将下方 YOUR_IMAGE_BASE64_HERE 替换为你的真实图片 Base64
+      ======================================================
+    -->
+    <image 
+      class="hero-img"
+      x="0" 
+      y="0" 
+      width="900" 
+      height="320" 
+      preserveAspectRatio="xMidYMid slice" 
+      xlink:href="data:image/jpeg;base64,YOUR_IMAGE_BASE64_HERE"
+    />
+
+    <!-- 强对比半透明压暗层：防止背景风景过亮导致文字或光效失效 -->
+    <rect width="900" height="320" fill="#090d13" opacity="0.38" />
+
+    <!-- 划过全图的斜向反光光刃 -->
+    <g class="light-sweep">
+      <rect x="0" y="-200" width="160" height="800" fill="url(#shineGrad)" />
+    </g>
+
+    <!-- 动态星光/光尘微粒 -->
+    <g>
+      <circle class="particle p1" cx="240" cy="180" r="3" fill="#38bdf8" />
+      <circle class="particle p2" cx="680" cy="90"  r="4" fill="#818cf8" />
+      <circle class="particle p3" cx="540" cy="220" r="2.5" fill="#f43f5e" />
+      <circle class="particle p4" cx="810" cy="190" r="3.5" fill="#34d399" />
+      <circle class="particle p2" cx="380" cy="80"  r="2" fill="#c084fc" />
+    </g>
+
+    <!-- 底部悬浮信息卡片（半透明毛玻璃风） -->
+    <g transform="translate(48, 160)">
+      <!-- 铭牌底色与描边 -->
+      <rect width="440" height="116" rx="12" fill="url(#cardGrad)" stroke="#30363d" stroke-width="1.2" />
+      
+      <!-- 卡片左侧彩色状态装饰点 -->
+      <circle cx="28" cy="30" r="4.5" fill="#f43f5e" />
+      <circle cx="44" cy="30" r="4.5" fill="#fbbf24" />
+      <circle cx="60" cy="30" r="4.5" fill="#22c55e" />
+
+      <!-- 主标题 -->
+      <text x="28" y="70" class="main-title">EXPLORE &amp; CREATE.</text>
+
+      <!-- 打字机指令行 + 闪烁光标 -->
+      <g transform="translate(28, 96)">
+        <text x="0" y="0" class="typewriter-text">&gt; Welcome to my profile space</text>
+        <rect class="cursor" x="254" y="-12" width="8" height="15" fill="#58a6ff" />
+      </g>
+    </g>
+  </g>
+
+  <!-- 最外圈高亮霓虹边框（动态走色） -->
+  <rect x="0.75" y="0.75" width="898.5" height="318.5" rx="16" fill="none" stroke="url(#neonBorder)" stroke-width="1.8" />
+</svg>

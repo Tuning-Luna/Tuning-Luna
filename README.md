@@ -10,7 +10,7 @@
 
 <div align="center">
   <img 
-    src="./assets/banner.svg" 
+    src="./banners/banner5.svg" 
     width="80%" 
     alt="Banner"
   />
