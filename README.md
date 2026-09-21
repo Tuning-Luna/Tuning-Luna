@@ -10,7 +10,7 @@
 
 <div align="center">
   <img 
-    src="./assets/JSA_tiny.jpg" 
+    src="./assets/banner.svg" 
     width="80%" 
     alt="Banner"
   />
