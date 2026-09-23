@@ -1,10 +1,10 @@
-<div align="center">
+<!-- <div align="center">
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Playpen+Sans+Deva&weight=600&size=40&duration=1&pause=999999&color=18F741&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Welcome+to+my+profile."
 />
 
-</div>
+</div> -->
 
 
 
@@ -22,11 +22,7 @@
 </a>
 </div>
 
-<h2 align="center">📊 Page Views</h2>
 
-<div align="center">
-  <img src="https://count.getloli.com/get/@Tuning-Luna?theme=rule34" alt="Page Views" />
-</div>
 
 <h2 align="center">🎵 Spotify</h2>
 
@@ -60,7 +56,7 @@
 <h2 align="center">💻 What I Code With</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,vue,react,nextjs,nodejs,bun,express,nestjs,mysql,sqlite,redis,linux,debian,nginx,docker,electron,fastapi,git,github,vscode,neovim,npm,powershell,md&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,md,vue,react,nextjs,vite,vuetify,electron,nodejs,bun,express,nestjs,fastapi,mysql,sqlite,redis,linux,debian,nginx,docker,git,github,powershell,anaconda,npm,vscode,visualstudio,neovim,obsidian,discord,gmail&perline=10" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -126,6 +122,7 @@
 
 </details>
 
+
 <h2 align="center">📒 Contact Information</h2>
 
 <details>
@@ -147,3 +144,10 @@
 </div>
 
 </details>
+
+
+<h2 align="center">📊 Page Views</h2>
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@Tuning-Luna?theme=booru-lewd" alt="Page Views" />
+</div>
