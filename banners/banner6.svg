@@ -86,7 +86,7 @@
     .scenery-img {
       transform-box: fill-box;
       transform-origin: center;
-      animation: kenBurns 24s ease-in-out infinite;
+      animation: kenBurns 36s ease-in-out infinite;
     }
 
     @keyframes kenBurns {
@@ -107,7 +107,7 @@
        白色边框逐渐变浅直到消失再变深
        --------------------------------------------------------- */
     .breathing-border {
-      animation: borderBreathe 4s ease-in-out infinite;
+      animation: borderBreathe 10s ease-in-out infinite;
     }
 
     @keyframes borderBreathe {
