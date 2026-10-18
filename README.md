@@ -1,25 +1,13 @@
-<!-- <div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Playpen+Sans+Deva&weight=600&size=40&duration=1&pause=999999&color=18F741&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Welcome+to+my+profile."
-/>
-
-</div> -->
-
-
-
 <div align="center">
   <img 
     src="./banners/banner6.svg" 
-    width="80%" 
+    height="280" 
     alt="Banner"
   />
-</div>
-
-<div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Studying+at+Hefei+University+of+Technology;Computer+Science+Student;Always+Learning+%2F+Always+Building;Code+is+the+closest+thing+to+magic;Agents+plan%2C+tools+execute;Ship+fast%2C+iterate+faster" alt="Typing SVG" />
-</a>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=520&height=35&lines=Studying+at+Hefei+University+of+Technology;Computer+Science+Student;Always+Learning+%2F+Always+Building;Code+is+the+closest+thing+to+magic;Agents+plan%2C+tools+execute;Ship+fast%2C+iterate+faster" alt="Typing SVG" />
+  </a>
 </div>
 
 
