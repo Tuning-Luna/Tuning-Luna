@@ -100,14 +100,6 @@
   />
 </div>
 
-<div align="center">
-  <img
-    src="https://metrics.lecoq.io/Tuning-Luna?base=header%2C+activity%2C+community%2C+repositories-metadata&config.timezone=Asia%2FShanghai"
-    width="95%"
-    style="margin-bottom:30px;"
-  />
-</div>
-
 </details>
 
 
@@ -137,5 +129,5 @@
 <h2 align="center">📊 Page Views</h2>
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@Tuning-Luna?theme=booru-lewd" alt="Page Views" />
+  <img src="https://count.getloli.com/get/@Tuning-Luna?theme=original-new&padding=6&darkmode=auto" alt="Page Views" />
 </div>
