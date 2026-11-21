@@ -19,25 +19,19 @@
 [![Spotify](https://img.shields.io/badge/Spotify-TuningLuna-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31d6ybszeq4mxs3khxyautsuexty)
 
 <p align="center">
+
 <div><b>Current Playing:</b></div>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31d6ybszeq4mxs3khxyautsuexty&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d6ybszeq4mxs3khxyautsuexty&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
 
-<details>
-
-<summary>
-  <b>Recently Played</b>
-</summary>
 
 <div align="center">
 
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31d6ybszeq4mxs3khxyautsuexty&count=10&width=300&unique=true)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31d6ybszeq4mxs3khxyautsuexty&count=10&avatar=0&unique=1&progress=0&duration=1&footer=wave)
 
 </div>
-
-</details>
 
 </div>
 
@@ -105,15 +99,8 @@
 
 <h2 align="center">📒 Contact Information</h2>
 
-<details>
-
-<summary>
-  <b>Click to View</b>
-</summary>
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/EMail-tuningluna1206@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuningluna1206@gmail.com)
 
 [![Proton Mail](https://img.shields.io/badge/ProtonMail-tuningluna%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tuningluna@proton.me)
 
@@ -123,7 +110,6 @@
 
 </div>
 
-</details>
 
 
 <h2 align="center">📊 Page Views</h2>
